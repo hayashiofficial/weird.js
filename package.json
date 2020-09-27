@@ -1,0 +1,24 @@
+{
+  "name": "weird.js",
+  "version": "1.0.0",
+  "description": "weird.js is an NPM package used for functions that normally take a long time such as random jokes and 8-ball.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hayashiofficial/weird.js.git"
+  },
+  "keywords": [
+    "joke",
+    "javascript",
+    "8ball"
+  ],
+  "author": "hayashiofficial",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hayashiofficial/weird.js/issues"
+  },
+  "homepage": "https://github.com/hayashiofficial/weird.js#readme"
+}
